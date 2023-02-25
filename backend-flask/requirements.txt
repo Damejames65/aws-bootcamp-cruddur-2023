@@ -1,8 +1,8 @@
 flask
 flask-cors
 
-pentelemetry-api \
-opentelemetry-sdk \
-opentelemetry-exporter-otlp-proto-http \
-opentelemetry-instrumentation-flask \
+pentelemetry-api 
+opentelemetry-sdk 
+opentelemetry-exporter-otlp-proto-http 
+opentelemetry-instrumentation-flask 
 opentelemetry-instrumentation-requests
